@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+body{font-size:12px;}
+/*img{border: none;}*/
+li{list-style: none;}
+input,select,textarea{outline: none;border: none;background:none;}
+textarea{resize: none;}
+a{text-decoration: none;}
+ul,ol{list-style: none;}
+
+
